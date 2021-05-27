@@ -1,7 +1,9 @@
-<h3>
-Hi there! 
-<g-emoji>👋</g-emoji>
-<g-emoji>🤓</g-emoji><br>
-I'm Jouhaina Hmida <br>
-an Network and communication engineering student, <br>
+<h1 align="center">
+Hi There 👋 <br> 
+This is Jouhaina Hmida
+</h1>
+
+<h3 align="center">
+Network and communication engineering student<br>
+  <g-emoji>🤓</g-emoji><br>
 </h3>
